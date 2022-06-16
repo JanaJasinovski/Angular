@@ -111,5 +111,4 @@ export class AppComponent implements OnInit {
     container.appendChild(button);
     button.click();
   }
-
 }
